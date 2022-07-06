@@ -79,14 +79,14 @@ header a {
 }
 
 header .inner {
-  background-color: #fff;
+  background-color: #08871d;
   position: relative;
   display: flex;
   justify-content: space-between;
-  padding: 15px 20px;
-  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.35);
-  border-radius: 4px;
-  margin: 20px;
+  padding: 100px 70px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.35);
+  border-radius: 0px;
+  margin: 0px;
 }
 
 /* ロゴ */
